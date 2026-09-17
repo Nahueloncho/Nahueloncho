@@ -1,52 +1,134 @@
+<div align="center">
+
 # Nahuel Lucas Cueli
 
-🎓 Ingeniería en Sistemas de Información — UTN FRBA  
-📊 Aspiring Data Analyst / Data Scientist
+### Systems Engineering Student · Data & Analytics · UTN FRBA
 
-## About me
+<p>
+  <a href="https://www.linkedin.com/in/nahuel-lucas-cueli">
+    <img src="https://img.shields.io/badge/LinkedIn-Nahuel%20Lucas%20Cueli-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
-I'm a Systems Engineering student interested in
-data analysis, databases and cybersecurity.
+</div>
 
-Currently working with:
+---
 
-- SQL
-- Power BI
-- Python
-- Statistics
-- APIs
-- Data Engineering
+## 👨‍💻 About me
 
-## Featured projects
+I'm a **Systems Engineering student at UTN FRBA**, interested in the intersection between software systems, databases and data analysis.
 
-### 🗄️ Travel Company Data Warehouse
-Data warehouse project using...
+I enjoy solving problems through **logic, statistics and structured data**, with a growing focus on **Data Analytics, Business Intelligence and Data Engineering**.
+
+I'm also interested in **cybersecurity, distributed systems and software architecture**.
+
+Currently building my technical profile through university projects, personal experimentation and continuous learning.
+
+---
+
+## 🧠 Languages
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell">
+
+</div>
+
+---
+
+## 📊 Areas of interest
+
+<table>
+<tr>
+<td width="50%">
+
+### Data
+
+* Data Analytics
+* Business Intelligence
+* Statistics
+* SQL & Databases
+* Data Engineering
+* APIs & Data Integration
+
+</td>
+<td width="50%">
+
+### Systems
+
+* Software Architecture
+* Distributed Systems
+* Operating Systems
+* Cybersecurity
+* Object-Oriented Programming
+* Linux
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured projects
 
 ### 💻 Distributed Operating System
-...
 
-## Currently learning
+A university project focused on distributed systems and operating-system concepts, including process management, memory and CPU coordination, and communication between components.
 
-- Data Analytics
-- Data Engineering
-- Data Science
-- Cybersecurity
+**Focus:** `C/C++` · `Operating Systems` · `Distributed Systems` · `Architecture`
 
-## Contact
+---
 
-[LinkedIn](https.//linkedin.com/in/nahuel-lucas-cueli)
+### 🗄️ Travel Company Data Warehouse
 
-<!--
-**Nahueloncho/Nahueloncho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A university database project focused on data modeling and the construction of a data warehouse for analytical purposes.
 
-Here are some ideas to get you started:
+**Focus:** `SQL` · `Databases` · `Data Modeling` · `Data Warehousing`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 GitHub Analytics
+
+> This section will evolve into a data-driven view of my GitHub activity.
+
+<div align="center">
+
+<!-- GitHub statistics will be added in the next iteration -->
+
+</div>
+
+---
+
+## 🧪 Currently learning
+
+```text
+Data Analytics
+├── SQL
+├── Statistics
+├── Power BI
+└── Python
+
+Data Engineering
+├── ETL
+├── APIs
+└── Data Pipelines
+
+Cybersecurity
+├── Networking
+├── Cryptography
+└── Security Fundamentals
+```
+
+---
+
+## 📚 Engineering mindset
+
+> **Understand the system. Model the problem. Measure the data. Build the solution.**
+
+I like approaching technical problems through a combination of **systems thinking, mathematical reasoning and data-driven analysis**.
