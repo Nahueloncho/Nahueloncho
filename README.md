@@ -1,20 +1,32 @@
 <div align="center">
 
-# Nahuel Lucas Cueli
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nahueloncho&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Nahueloncho" /> 
+  </p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi , I'm Nahuel Lucas Cueli <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></summary>
+  </ul>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Systems Engineering Student · Data & Analytics · UTN FRBA
 
-<p>
-  <a href="https://www.linkedin.com/in/nahuel-lucas-cueli">
-    <img src="https://img.shields.io/badge/LinkedIn-Nahuel%20Lucas%20Cueli-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
-
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 👨‍💻 About me
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me</h1></summary>
+  </ul>
+</div>
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 I'm a **Systems Engineering student at UTN FRBA**, interested in the intersection between software systems, databases and data analysis.
 
@@ -24,9 +36,13 @@ I'm also interested in **cybersecurity, distributed systems and software archite
 
 Currently building my technical profile through university projects, personal experimentation and continuous learning.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🧠 Languages
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills</h1></summary>
+  </ul>
+</div>
 
 <div align="center">
 
@@ -40,7 +56,7 @@ Currently building my technical profile through university projects, personal ex
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 Areas of interest
 
@@ -73,37 +89,29 @@ Currently building my technical profile through university projects, personal ex
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Featured projects
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Analytics
 
-### 💻 Distributed Operating System
+<p align="center">
+  <a href="https://github.com/Nahueloncho">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nahueloncho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Nahueloncho">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nahueloncho&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
-A university project focused on distributed systems and operating-system concepts, including process management, memory and CPU coordination, and communication between components.
-
-**Focus:** `C/C++` · `Operating Systems` · `Distributed Systems` · `Architecture`
-
----
-
-### 🗄️ Travel Company Data Warehouse
-
-A university database project focused on data modeling and the construction of a data warehouse for analytical purposes.
-
-**Focus:** `SQL` · `Databases` · `Data Modeling` · `Data Warehousing`
-
----
-
-## 📈 GitHub Analytics
-
-> This section will evolve into a data-driven view of my GitHub activity.
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nahueloncho&theme=dark&hide_border=true"/>
+</p>
 
 <div align="center">
 
-<!-- GitHub statistics will be added in the next iteration -->
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧪 Currently learning
 
@@ -125,7 +133,7 @@ Cybersecurity
 └── Security Fundamentals
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📚 Engineering mindset
 
