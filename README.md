@@ -103,7 +103,7 @@ Currently building my technical profile through university projects, personal ex
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div id="user-content-toc"> <ul align="left"> <summary> <h1 style="display: inline-block"> <img src="https://media.giphy.com/media/yhBIdcNYCaJrbbzvFe/giphy.gif" width="50px"> Areas Of Interest </h1> </summary> </ul> </div>
+<div id="user-content-toc"> <ul align="left"> <summary> <h1 style="display: inline-block"> <img src="https://media.giphy.com/media/yhBIdcNYCaJrbbzvFe/giphy.gif" width="50px"> Areas of Interest </h1> </summary> </ul> </div>
 
 <table align="center">
 <tr>
@@ -147,7 +147,7 @@ Currently building my technical profile through university projects, personal ex
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div id="user-content-toc"> <ul align="left"> <summary> <h1 style="display: inline-block"> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif" width="50px"> Github Analytics </h1> </summary> </ul> </div>
+<div id="user-content-toc"> <ul align="left"> <summary> <h1 style="display: inline-block"> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif" width="50px"> GitHub Analytics </h1> </summary> </ul> </div>
 
 <p align="center">
   <a href="https://github.com/Nahueloncho">
